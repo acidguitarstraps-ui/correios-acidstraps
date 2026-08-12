@@ -1,10 +1,11 @@
+json
 {
   "name": "correios-shopify",
   "version": "1.0.0",
   "description": "Servidor de cotacao de frete dos Correios para o Carrier Service do Shopify - Acid Straps",
-  "main": "src/server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
